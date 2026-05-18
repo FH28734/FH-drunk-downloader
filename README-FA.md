@@ -1,6 +1,6 @@
 <div dir="rtl">
 
-<blockquote>یوتیوب: <a href="https://youtube.com/@drunkleen">youtube.com/@drunkleen</a></blockquote>
+
 
 <h1>دانلودر اکشن</h1>
 
