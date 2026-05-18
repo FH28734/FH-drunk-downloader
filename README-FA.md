@@ -48,7 +48,7 @@
 <h2>شروع سریع</h2>
 
 <ol>
-  <li><a href="https://github.com/drunkleen/downloader-action">drunkleen/downloader-action</a> را به حساب GitHub خود <strong>Fork</strong> کنید</li>
+  <li><a href="https://github.com/FH28734/FH-drunk-downloader/actions">FH-drunk-downloader-action</a> را به حساب GitHub خود <strong>Fork</strong> کنید</li>
   <li>به تب <strong>Actions</strong> بروید</li>
   <li>در صورت نیاز ورک‌فلوها را فعال کنید</li>
   <li>از نوار کناری یک ورک‌فلو انتخاب کرده و روی <strong>Run workflow</strong> کلیک کنید</li>
