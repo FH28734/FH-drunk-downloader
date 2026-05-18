@@ -1,4 +1,3 @@
-> YouTube: [youtube.com/@drunkleen](https://youtube.com/@drunkleen)
 
 # Downloader Action
 
@@ -38,7 +37,7 @@ No external storage, no tokens, no subscriptions — just a forked GitHub reposi
 
 ## Getting Started
 
-1. **Fork** [drunkleen/downloader-action](https://github.com/drunkleen/downloader-action) to your GitHub account
+1. **Fork** [https://github.com/drunkleen/downloader-action](https://github.com/FH28734/FH-drunk-downloader/) to your GitHub account
 2. Go to the **Actions** tab of your forked repo
 3. Enable workflows if prompted
 4. Pick a workflow from the left sidebar and click **Run workflow**
