@@ -1,0 +1,3 @@
+/avatars/6b97d30ff0bdb5d5c633ba850af739cd.svg
+/front/assets/huggingface_logo-noborder.svg
+https://www.nethype.de/huggingface_embed/quantpplgraph.png
